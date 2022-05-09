@@ -8,7 +8,7 @@ const petData = require("./pets");
 console.log(petData.names);
 console.log(petData.ages);
 
-//We could just get the names of petData instead
+//We could just get the names of petData instead with destructuring
 const { names } = require("./pets");
 console.log(names);
 
