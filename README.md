@@ -8,4 +8,5 @@ global.js contains examples on using the global object for Node.js<br>
 [https://nodejs.org/api/globals.html](https://nodejs.org/api/globals.html)
 
 ## File System
+How to use fs module for streams, and reading/writing/deleting files and directories.
 [https://nodejs.dev/learn/the-nodejs-fs-module](https://nodejs.dev/learn/the-nodejs-fs-module)
